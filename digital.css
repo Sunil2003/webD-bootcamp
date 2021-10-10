@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-image: url(https://i.pinimg.com/736x/5d/aa/43/5daa430f2dbb741d8a53c3fdb53b37b1.jpg);
+  background-size: auto;
+  background-attachment: fixed;
+}
+
+h1 {
+  margin: auto;
+  background: black;
+  color: whitesmoke;
+  border: 7px solid brown;
+  box-shadow: pink;
+  padding: 8px;
+  text-align: center;
+  width: 120px;
+}
+.time {
+  margin: 150px auto;
+  background: black;
+  color: whitesmoke;
+  border: 7px solid brown;
+  box-shadow: pink;
+  padding: 8px;
+  text-align: center;
+  width: 500px;
+}
+.hms {
+  font-size: 100px;
+  font-weight: 200;
+}
+.ampm {
+  font-size: 30px;
+}
+.date {
+  font-size: 50px;
+}
